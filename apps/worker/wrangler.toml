@@ -11,8 +11,8 @@ not_found_handling = "single-page-application"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "line-harness"
-database_id = "YOUR_DEV_D1_DATABASE_ID"
+database_name = "line-crm"
+database_id = "ec9486db-db9d-4523-9f2b-a714f9ec0727"
 
 [[r2_buckets]]
 binding = "IMAGES"
